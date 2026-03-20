@@ -35,6 +35,7 @@ Impact
 
 Reducing churn by 5% can save approximately ₹3L per year
  Dashboard
+Dataset: [Download Dataset](https://github.com/Vinay-276/customer-churn-analysis/blob/cb06156b8352bdfa8ca61420061a806564c06581/WA_Fn-UseC_-Telco-Customer-Churn.csv)
 
 Overview
 ![image alt](https://github.com/Vinay-276/customer-churn-analysis/blob/f3fde4c67dcb2dd7dad5110c189e451156c3ce75/dashboard1.png.png)
