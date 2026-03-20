@@ -29,9 +29,11 @@ Key KPIs
 
 Key Insights
 
-* Month-to-month customers churn more
-* Early customers are high risk
-* Customers without Tech Support churn more
+## Recommendations
+
+1. Convert month-to-month customers (highest impact)  
+2. Improve onboarding for early customers (0–6 months)  
+3. Promote Tech Support services to reduce churn  
 
 Impact
 
@@ -48,3 +50,5 @@ Dataset: [Telco Customer Churn Dataset](./WA_Fn-UseC_-Telco-Customer-Churn.csv)
 ![image alt](https://github.com/Vinay-276/customer-churn-analysis/blob/f3fde4c67dcb2dd7dad5110c189e451156c3ce75/dashboard1.png.png)
 ![image alt](https://github.com/Vinay-276/customer-churn-analysis/blob/cc4e132b413b0c2c832cbffe5fa89d973152792d/dashboard2.png%20(2).png)
 ![image alt](https://github.com/Vinay-276/customer-churn-analysis/blob/ea279ef7d9173bc2614e34f5d4ba1d2fced3293f/dashboard3.png.png)
+
+Month-to-month customers contribute the highest revenue loss, making contract conversion the highest priority strategy.
